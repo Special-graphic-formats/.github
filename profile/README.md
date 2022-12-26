@@ -120,7 +120,10 @@ This organization includes simple tools for working with special graphic formats
 ![GitHub all releases](https://img.shields.io/github/downloads/Special-graphic-formats/libfrg/total)
 ![GitHub](https://img.shields.io/github/license/Special-graphic-formats/libfrg)
 * [libpnmio](https://github.com/Special-graphic-formats/libpnmio):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Special-graphic-formats/libpnmio)
+![GitHub Release Date](https://img.shields.io/github/release-date/Special-graphic-formats/libpnmio)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/libpnmio)
+![GitHub all releases](https://img.shields.io/github/downloads/Special-graphic-formats/libpnmio/total)
 
 #### other:
 
@@ -130,3 +133,11 @@ This organization includes simple tools for working with special graphic formats
 * [img2pnm](https://github.com/Special-graphic-formats/img2pnm):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/img2pnm)
 ![GitHub](https://img.shields.io/github/license/Special-graphic-formats/img2pnm)
+
+#### samples:
+
+* [libpnmio-samples](https://github.com/Special-graphic-formats/libpnmio-samples):
+![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/libpnmio-samples)
+* [pnmpack-test](https://github.com/Special-graphic-formats/pnmpack-test):
+![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/pnmpack-test)
+![GitHub](https://img.shields.io/github/license/Special-graphic-formats/pnmpack-test)
