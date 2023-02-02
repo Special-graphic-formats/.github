@@ -105,6 +105,12 @@ This organization includes simple tools for working with special graphic formats
 ![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/pnmpack)
 ![GitHub all releases](https://img.shields.io/github/downloads/Special-graphic-formats/pnmpack/total)
 ![GitHub](https://img.shields.io/github/license/Special-graphic-formats/pnmpack)
+* [ssdv](https://github.com/Special-graphic-formats/ssdv):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Special-graphic-formats/ssdv)
+![GitHub Release Date](https://img.shields.io/github/release-date/Special-graphic-formats/ssdv)
+![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/ssdv)
+![GitHub all releases](https://img.shields.io/github/downloads/Special-graphic-formats/ssdv/total)
+![GitHub](https://img.shields.io/github/license/Special-graphic-formats/ssdv)
 
 #### library:
 
@@ -124,9 +130,17 @@ This organization includes simple tools for working with special graphic formats
 ![GitHub Release Date](https://img.shields.io/github/release-date/Special-graphic-formats/libpnmio)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/libpnmio)
 ![GitHub all releases](https://img.shields.io/github/downloads/Special-graphic-formats/libpnmio/total)
+* [libtiff](https://github.com/Special-graphic-formats/libtiff):
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Special-graphic-formats/libtiff)
+![GitHub Release Date](https://img.shields.io/github/release-date/Special-graphic-formats/libtiff)
+![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/libtiff)
+![GitHub all releases](https://img.shields.io/github/downloads/Special-graphic-formats/libtiff/total)
 
 #### other:
 
+* [fuif](https://github.com/Special-graphic-formats/fuif):
+![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/fuif)
+![GitHub](https://img.shields.io/github/license/Special-graphic-formats/fuif)
 * [himg](https://github.com/Special-graphic-formats/himg):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/himg)
 ![GitHub](https://img.shields.io/github/license/Special-graphic-formats/himg)
