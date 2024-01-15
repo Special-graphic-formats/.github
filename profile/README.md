@@ -139,6 +139,9 @@ This organization includes simple tools for working with special graphic formats
 
 #### other:
 
+* [fractal_image_compression](https://github.com/Special-graphic-formats/fractal_image_compression):
+![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/fractal_image_compression)
+![GitHub](https://img.shields.io/github/license/Special-graphic-formats/fractal_image_compression)
 * [fuif](https://github.com/Special-graphic-formats/fuif):
 ![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/fuif)
 ![GitHub](https://img.shields.io/github/license/Special-graphic-formats/fuif)
